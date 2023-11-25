@@ -1,4 +1,4 @@
-### Hi there, I'm Jiangkun QIU 👋
+### Hi there, I'm Jakku Sakura 👋
 
 - 🔭 I’m currently working as a Quant Developer for QRT
 - 🌱 I’m currently developing several projects that try to bring academic results in Programming Language field to High Frequency Trading
