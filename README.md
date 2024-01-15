@@ -14,9 +14,7 @@ qjk2001@gmail.com
 
 #### Languages and Tools
 
-<img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"/>
-<img align="left" alt="C++" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://www.python.org/static/img/python-logo@2x.png" />
+Rust/C++/Python
 
 And more. I don't want to list all here
 
